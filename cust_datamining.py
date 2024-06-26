@@ -20,7 +20,7 @@ from google.colab import files # for downloading purposes
 # I need an instance of reddit class to do anything in praw so generating an instance below
 reddit = praw.Reddit(
     client_id="vid8c43do99jU9EiWUZsDg",
-    client_secret="gMqmmVTHAmaEEkIDNgks3zBwkxq1oQ",
+    client_secret="secretid",
     user_agent="YourAppBot"
 )
 
